@@ -8,6 +8,8 @@ Controls
 # Preview
 
 <img src="https://raw.githubusercontent.com/callummarshall9/FrisbeeDogeGame/master/frisbeePreview.png" width="800" height="400">
+<br>
+<img src="https://raw.githubusercontent.com/callummarshall9/FrisbeeDogeGame/master/gameRunning.png" width="800" height="400">
 
 # Todo
 
