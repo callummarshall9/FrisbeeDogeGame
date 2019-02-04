@@ -7,7 +7,7 @@ Controls
 
 # Preview
 
-<img src="https://raw.githubusercontent.com/callummarshall9/FrisbeeDogeGame/master/frisbeePreview.png" width="250" height="250">
+<img src="https://raw.githubusercontent.com/callummarshall9/FrisbeeDogeGame/master/frisbeePreview.png" width="800" height="400">
 
 # Todo
 
